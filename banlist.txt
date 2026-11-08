@@ -1,5 +1,5 @@
 # VeeBase ban list
-# Exported 2026-11-08 00:41 UTC - 81 addresses
+# Exported 2026-11-08 03:40 UTC - 80 addresses
 # Addresses with 5+ failed SSH logins in the last 30 days, plus current bans and firewall blocks.
 # One address or network per line. Import it on the Security page of another VeeBase Console,
 # or feed it to fail2ban, ipset or your firewall.
@@ -34,6 +34,7 @@
 113.170.11.127
 120.48.175.69
 193.32.162.15
+193.32.162.84
 80.94.95.115
 92.118.39.50
 101.96.196.4
@@ -57,7 +58,6 @@
 185.112.150.97
 189.217.130.86
 193.141.127.102
-193.32.162.84
 2.180.32.104
 2.57.122.238
 202.63.241.45
@@ -78,7 +78,6 @@
 159.223.97.218
 183.82.111.224
 222.220.102.32
-27.17.30.150
 45.90.163.37
 195.178.110.0/24
 2.57.122.0/24
